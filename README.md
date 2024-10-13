@@ -1,2 +1,2 @@
- https://only1tarunno.github.io/classifieds/
-# classifieds
+
+# https://zellyo-digital0.github.io/classifieds
